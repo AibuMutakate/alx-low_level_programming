@@ -1,5 +1,5 @@
 #include <stdio.h>
-include "main.h"
+#include "main.h"
 
 /**
  * _strlen - a function to print the length of a string
